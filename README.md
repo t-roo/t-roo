@@ -25,7 +25,3 @@ Here are some ideas to get you started:
 
 <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=t-roo&layout=compact&count_private=true&show_icons=true&theme=tokyonight" />
 
-<img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=t-roo&count_private=true&show_icons=true&show_icons=true&theme=tokyonight" />
-
-[![github-chart](https://github-chart.vercel.app/api?user=t-roo)](https://github.com/t-roo/github-chart)
-
